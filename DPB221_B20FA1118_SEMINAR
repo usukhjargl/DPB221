@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[13]:
-
-
 #1. Өгөгдсөн утга нь палиндром эсэхийг шалгах функц бич.
 def palindrome(n):
     x=n
